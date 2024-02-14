@@ -1,0 +1,32 @@
+{
+    "totalOrders": 101,
+    "totalAmount": 177515.0,
+    "scheduledPayments": [
+        {
+            "orders": 2,
+            "amount": 10000.0,
+            "scheduledPaymentDate": "2024-02-19"
+        },
+        {
+            "orders": 0,
+            "amount": 0.0,
+            "scheduledPaymentDate": ""
+        },
+        {
+            "orders": 0,
+            "amount": 0.0,
+            "scheduledPaymentDate": ""
+        },
+        {
+            "orders": 0,
+            "amount": 0.0,
+            "scheduledPaymentDate": ""
+        },
+        {
+            "orders": 99,
+            "amount": 167515.0,
+            "scheduledPaymentDate": ""
+        }
+    ],
+    "updatedAt": "2024-02-14 16:28:42"
+}
